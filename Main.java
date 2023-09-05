@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Main {//
     public static void main(String atrgs[]) {
 
         System.out.println("1 - cDNA->Polypeptide");
